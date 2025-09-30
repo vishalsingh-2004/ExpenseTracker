@@ -64,7 +64,7 @@ This project leverages a modern, decoupled architecture for scalability and main
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-API%20Calls-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white
+![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
@@ -151,12 +151,4 @@ The frontend should now be running at `http://localhost:5173/` and connected to 
     * [**LinkedIn**](https://www.linkedin.com/in/vishal-singh-81988928b/)
     * [**GitHub**](https://github.com/vishalsingh-2004)
  
-💰 **Expense Tracker** — A Full-Stack Personal Finance App  
-[![GitHub stars](https://img.shields.io/github/stars/vishalsingh-2004/ExpenseTracker?style=social)](https://github.com/vishalsingh-2004/ExpenseTracker)
-[![GitHub forks](https://img.shields.io/github/forks/vishalsingh-2004/ExpenseTracker?style=social)](https://github.com/vishalsingh-2004/ExpenseTracker)
-[![Repo size](https://img.shields.io/github/repo-size/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)
-[![Issues](https://img.shields.io/github/issues/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)
-[![License](https://img.shields.io/github/license/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)  
-
-🔗 **GitHub Repo:** [github.com/vishalsingh-2004/ExpenseTracker](https://github.com/vishalsingh-2004/ExpenseTracker)
 
