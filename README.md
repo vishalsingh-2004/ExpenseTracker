@@ -59,6 +59,21 @@ This project is built using a modern full-stack approach for scalability and per
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
+## 💡 What I Learned
+
+This project was a deep dive into building production-ready full-stack applications, allowing me to master key skills:
+
+* Full-stack integration between **React & Spring Boot**.
+* Implementing **secure user authentication** with email activation and JWT.
+* Designing and implementing a complex **RESTful API**.
+* Building highly **responsive and performant UIs** using Tailwind CSS.
+* Mastering **data fetching and state management** in React.
+
+---
+
+
 ## 🚀 Getting Started
 
 Follow these steps to set up the project locally.
@@ -130,18 +145,6 @@ The frontend should now be running at `http://localhost:5173/` and connected to 
 | **Spring Boot (Java)** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Robust, RESTful API server handling all business logic and security. |
 | **Spring Security & JWT** | ![Security](https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) | Stateless authentication and authorization using JSON Web Tokens. |
 | **MySQL / PostgreSQL** | ![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white) | Relational database persistence handled by Spring Data JPA. |
-
----
-
-## 💡 What I Learned
-
-This project was a deep dive into building production-ready full-stack applications, allowing me to master key skills:
-
-* Full-stack integration between **React & Spring Boot**.
-* Implementing **secure user authentication** with email activation and JWT.
-* Designing and implementing a complex **RESTful API**.
-* Building highly **responsive and performant UIs** using Tailwind CSS.
-* Mastering **data fetching and state management** in React.
 
 ---
 
