@@ -99,15 +99,37 @@ The frontend should now be running at `http://localhost:5173/` and connected to 
 
 **Stop tracking, Start managing.** Expense Tracker is a powerful, full-stack personal finance application built to give you effortless control over your income and expenses. Visualize your spending, track trends over time, and take control of your financial future.
 
+Excellent idea! Integrating your actual project screenshots will make the README much more visually appealing and informative.
+
+Here is the updated README with your provided images linked into the "Screenshots" section, corresponding to the correct descriptions.
+
+Important: Please ensure the image URLs you provided are publicly accessible so they display correctly on GitHub. I've used placeholder text (<YOUR_GITHUB_IMAGE_URL_HERE>) for the specific URLs for images not explicitly provided in the prompt, but I've matched the ones you did give.
+
+Markdown
+
+# 💰 Expense Tracker
+
+**Stop tracking, Start managing.** Expense Tracker is a powerful, full-stack personal finance application built to give you effortless control over your income and expenses. Visualize your spending, track trends over time, and take control of your financial future.
+
 ## Screenshots
 
-| Dashboard Overview | Income Tracking |
+| Landing Page | Signup Page |
 | :---: | :---: |
-| ![Dashboard Screenshot](https://github.com/user-attachments/assets/c2d3770f-d731-47a2-84e8-14dbeb5e1a26) | ![Income Overview Screenshot](https://github.com/user-attachments/assets/c83dbcbe-5c7e-4aa6-a074-d34a514ff866) |
+| ![Landing Page](https://github.com/user-attachments/assets/c2d3770f-d731-47a2-84e8-14dbeb5e1a26) | ![Signup Page](https://github.com/user-attachments/assets/ef0a956f-3056-491e-b9af-b7b957effbe7) |
 
-| Expense Filtering | Category Management |
+| Dashboard Overview | Category Management |
 | :---: | :---: |
-| ![Expense Filter Screenshot](https://github.com/user-attachments/assets/46f8f385-6f6b-4ff5-aecd-788224f6f93c) | ![Add Category Screenshot](https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233) |
+| ![Dashboard Overview](https://github.com/user-attachments/assets/c83dbcbe-5c7e-4aa6-a074-d34a514ff866) | ![Category Management](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_2_HERE>) |
+
+| Income Tracking | Expense Overview |
+| :---: | :---: |
+| ![Income Tracking](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_3_HERE>) | ![Expense Overview](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_4_HERE>) |
+
+| Filter Transactions | Login Page |
+| :---: | :---: |
+| ![Filter Transactions](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_5_HERE>) | ![Login Page](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_8_HERE>) |
+
+
 
 ## ✨ Features Spotlight
 
