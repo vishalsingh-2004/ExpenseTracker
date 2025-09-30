@@ -150,3 +150,14 @@ The frontend should now be running at `http://localhost:5173/` and connected to 
 * **Vishal Singh** - Feel free to connect if you have any questions or feedback!
     * [**LinkedIn**](https://www.linkedin.com/in/vishal-singh-81988928b/)
     * [**GitHub**](https://github.com/vishalsingh-2004)
+ 
+* ## 🚀 GitHub Repository  
+
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Expense-Tracker?style=social)](https://github.com/YourUsername/Expense-Tracker)  
+[![GitHub forks](https://img.shields.io/github/forks/YourUsername/Expense-Tracker?style=social)](https://github.com/YourUsername/Expense-Tracker)  
+[![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
+[![GitHub issues](https://img.shields.io/github/issues/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
+[![GitHub license](https://img.shields.io/github/license/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
+
+🔗 **Check it out here → [Expense Tracker Repo](https://github.com/YourUsername/Expense-Tracker)**  
+
