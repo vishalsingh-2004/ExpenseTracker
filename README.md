@@ -63,8 +63,8 @@ This project leverages a modern, decoupled architecture for scalability and main
 ![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-API%20Calls-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white
 
 
 ---
