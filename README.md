@@ -151,13 +151,12 @@ The frontend should now be running at `http://localhost:5173/` and connected to 
     * [**LinkedIn**](https://www.linkedin.com/in/vishal-singh-81988928b/)
     * [**GitHub**](https://github.com/vishalsingh-2004)
  
-* ## 🚀 GitHub Repository  
+💰 **Expense Tracker** — A Full-Stack Personal Finance App  
+[![GitHub stars](https://img.shields.io/github/stars/vishalsingh-2004/ExpenseTracker?style=social)](https://github.com/vishalsingh-2004/ExpenseTracker)
+[![GitHub forks](https://img.shields.io/github/forks/vishalsingh-2004/ExpenseTracker?style=social)](https://github.com/vishalsingh-2004/ExpenseTracker)
+[![Repo size](https://img.shields.io/github/repo-size/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)
+[![Issues](https://img.shields.io/github/issues/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)
+[![License](https://img.shields.io/github/license/vishalsingh-2004/ExpenseTracker)](https://github.com/vishalsingh-2004/ExpenseTracker)  
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Expense-Tracker?style=social)](https://github.com/YourUsername/Expense-Tracker)  
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/Expense-Tracker?style=social)](https://github.com/YourUsername/Expense-Tracker)  
-[![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
-[![GitHub license](https://img.shields.io/github/license/YourUsername/Expense-Tracker)](https://github.com/YourUsername/Expense-Tracker)  
-
-🔗 **Check it out here → [Expense Tracker Repo](https://github.com/YourUsername/Expense-Tracker)**  
+🔗 **GitHub Repo:** [github.com/vishalsingh-2004/ExpenseTracker](https://github.com/vishalsingh-2004/ExpenseTracker)
 
