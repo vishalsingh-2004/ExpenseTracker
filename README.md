@@ -119,16 +119,15 @@ Markdown
 
 | Dashboard Overview | Category Management |
 | :---: | :---: |
-| ![Dashboard Overview](https://github.com/user-attachments/assets/c83dbcbe-5c7e-4aa6-a074-d34a514ff866) | ![Category Management](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_2_HERE>) |
+| ![Dashboard Overview](8fd35ede-7c35-4e1b-8f5d-375ed6ab600f.jpg) | ![Category Management](<YOUR_GITHUB_IMAGE_URL_FOR_CATEGORY_HERE>) |
 
 | Income Tracking | Expense Overview |
 | :---: | :---: |
-| ![Income Tracking](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_3_HERE>) | ![Expense Overview](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_4_HERE>) |
+| ![Income Tracking](<YOUR_GITHUB_IMAGE_URL_FOR_INCOME_HERE>) | ![Expense Overview](ff800153-3610-4356-9eba-d502d6be9b5e.jpg) |
 
 | Filter Transactions | Login Page |
 | :---: | :---: |
-| ![Filter Transactions](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_5_HERE>) | ![Login Page](<YOUR_GITHUB_IMAGE_URL_FOR_IMAGE_8_HERE>) |
-
+| ![Filter Transactions](<YOUR_GITHUB_IMAGE_URL_FOR_FILTER_HERE>) | ![Login Page](<YOUR_GITHUB_IMAGE_URL_FOR_LOGIN_HERE>) |
 
 
 ## ✨ Features Spotlight
