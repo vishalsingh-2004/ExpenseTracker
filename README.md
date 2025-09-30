@@ -94,3 +94,125 @@ You will need the following installed:
     ```
 
 The frontend should now be running at `http://localhost:5173/` and connected to the backend API.
+
+# 💰 Expense Tracker
+
+**Stop tracking, Start managing.** Expense Tracker is a powerful, full-stack personal finance application built to give you effortless control over your income and expenses. Visualize your spending, track trends over time, and take control of your financial future.
+
+## Screenshots
+
+| Dashboard Overview | Income Tracking |
+| :---: | :---: |
+| ![Dashboard Screenshot](https://github.com/user-attachments/assets/c2d3770f-d731-47a2-84e8-14dbeb5e1a26) | ![Income Overview Screenshot](https://github.com/user-attachments/assets/c83dbcbe-5c7e-4aa6-a074-d34a514ff866) |
+
+| Expense Filtering | Category Management |
+| :---: | :---: |
+| ![Expense Filter Screenshot](https://github.com/user-attachments/assets/46f8f385-6f6b-4ff5-aecd-788224f6f93c) | ![Add Category Screenshot](https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233) |
+
+## ✨ Features Spotlight
+
+| Icon | Feature | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **Secure User Authentication** | Full user registration with email verification for robust security. |
+| 📊 | **Interactive Dashboard** | Real-time summary of net balance, income, expenses, and category-based spending visualization. |
+| 🏷️ | **Custom Categories** | Define, edit, and manage custom categories for precise organization of all transactions. |
+| 📈 | **Trend Visualization** | Dedicated views for Income and Expense with historical line charts to analyze trends over time. |
+| 🔎 | **Advanced Filtering** | Efficiently search and filter transactions by category, date range, and keywords. |
+| 📧 | **Export & Reporting** | Export current month's financial data to an Excel sheet and receive reports via email notification. |
+
+## 🛠️ Tech Stack
+
+This project leverages a modern, decoupled architecture for scalability and maintainability.
+
+### Frontend
+| Technology | Badge | Description |
+| :--- | :--- | :--- |
+| **React.js** | ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Library for building the dynamic and responsive user interface. |
+| **Vite** | ![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Fast, modern frontend tooling for development and bundling. |
+| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) | Utility-first framework for rapid and consistent styling. |
+
+### Backend & Database
+| Technology | Badge | Description |
+| :--- | :--- | :--- |
+| **Spring Boot (Java)** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Robust, RESTful API server handling all business logic and security. |
+| **Spring Security & JWT** | ![Security](https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) | Stateless authentication and authorization using JSON Web Tokens. |
+| **MySQL / PostgreSQL** | ![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white) | Relational database persistence handled by Spring Data JPA. |
+
+---
+
+## 💡 What I Learned
+
+This project was a deep dive into building production-ready full-stack applications, allowing me to master key skills:
+
+* Full-stack integration between **React & Spring Boot**.
+* Implementing **secure user authentication** with email activation and JWT.
+* Designing and implementing a complex **RESTful API**.
+* Building highly **responsive and performant UIs** using Tailwind CSS.
+* Mastering **data fetching and state management** in React.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally.
+
+### Prerequisites
+
+* Java Development Kit (JDK) 20 or later
+* Maven
+* Node.js (18+) & npm/yarn
+* A running instance of **MySQL** or **PostgreSQL**
+
+### 1. Backend Setup (`expensetracker/expensetracker`)
+
+1.  **Navigate to the backend directory:**
+    ```bash
+    cd expensetracker/expensetracker
+    ```
+
+2.  **Configure Environment:**
+    Update `src/main/resources/application.properties` with your database connection, JWT secret, and Email Service credentials.
+
+    ```properties
+    # Example MySQL Configuration
+    spring.datasource.url=jdbc:mysql://localhost:3306/moneymanager
+    spring.datasource.username=${YOUR_DB_USERNAME}
+    spring.datasource.password=${YOUR_DB_PASSWORD}
+    ```
+
+3.  **Run the application:**
+    ```bash
+    ./mvnw spring-boot:run
+    ```
+    The Spring Boot API will start on `http://localhost:8080/api/v1.0`.
+
+### 2. Frontend Setup (`expensetracker/expensetrackerwebapp`)
+
+1.  **Navigate to the frontend directory:**
+    ```bash
+    cd ../expensetrackerwebapp
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3.  **Run the application:**
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+
+The frontend application will be available at `http://localhost:5173/`.
+
+---
+
+## 🧑‍💻 Author
+
+* **Vishal Singh** - Feel free to connect if you have any questions or feedback!
+    * [**LinkedIn**](https://www.linkedin.com/in/vishal-singh-81988928b/)
+    * [**GitHub**](https://github.com/vishalsingh-2004)
