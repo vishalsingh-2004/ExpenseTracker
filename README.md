@@ -32,24 +32,25 @@
 | 🔎 | **Advanced Filtering** | Filter and sort transactions by category, date range, and keyword to quickly find specific data. |
 | 📧 | **Export & Reporting** | Easily export financial data to an Excel sheet and receive it via email notification. |
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-This project is built using a modern full-stack approach for scalability and performance.
+This project leverages a modern, decoupled architecture for scalability and maintainability.
 
 ### Frontend
-| Technology | Description |
-| :--- | :--- |
-| **React.js** | Library for building the dynamic and responsive user interface. |
-| **Vite** | Next-generation frontend tooling for a fast development experience. |
-| **Tailwind CSS** | Utility-first framework for rapid and consistent styling. |
+| Technology | Badge | Description |
+| :--- | :--- | :--- |
+| **React.js** | ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Library for building the dynamic and responsive user interface. |
+| **Vite** | ![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Fast, modern frontend tooling for development and bundling. |
+| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) | Utility-first framework for rapid and consistent styling. |
 
-### Backend
-| Technology | Description |
-| :--- | :--- |
-| **Spring Boot (Java 20+)** | Robust, RESTful API server handling business logic and security. |
-| **Spring Security & JWT** | Industry-standard security and stateless authentication. |
-| **Spring Data JPA** | Data persistence layer, supporting MySQL/PostgreSQL. |
+### Backend & Database
+| Technology | Badge | Description |
+| :--- | :--- | :--- |
+| **Spring Boot (Java)** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Robust, **RESTful API** server handling business logic and security. |
+| **Spring Security & JWT** | ![Security](https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) | Stateless authentication and authorization using **JSON Web Tokens**. |
+| **MySQL / PostgreSQL** | ![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white) | Relational database persistence handled by Spring Data JPA. |
 
+---
 ---
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -135,19 +136,7 @@ You will need the following installed:
 
 The frontend should now be running at `http://localhost:5173/` and connected to the backend API.
 
-
-
-
-
-### Backend & Database
-| Technology | Badge | Description |
-| :--- | :--- | :--- |
-| **Spring Boot (Java)** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | Robust, RESTful API server handling all business logic and security. |
-| **Spring Security & JWT** | ![Security](https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) | Stateless authentication and authorization using JSON Web Tokens. |
-| **MySQL / PostgreSQL** | ![Database](https://img.shields.io/badge/JPA-MySQL%2FPostgreSQL-E0B13D?style=for-the-badge&logo=mysql&logoColor=white) | Relational database persistence handled by Spring Data JPA. |
-
 ---
-
 
 ## 🧑‍💻 Author
 
