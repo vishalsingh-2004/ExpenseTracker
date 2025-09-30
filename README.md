@@ -115,29 +115,19 @@ Markdown
 
 | Landing Page | Signup Page |
 | :---: | :---: |
-| ![Landing Page](![WhatsApp Image 2025-09-23 at 21 06 33_608d3b98](https://github.com/user-attachments/assets/036184e1-2c28-4e72-b55c-485f69d55188)
-) | ![Signup Page](![WhatsApp Image 2025-09-23 at 21 06 34_077c5b55](https://github.com/user-attachments/assets/07b392d4-5255-4d11-9e56-5764945012d3)
-) |
+| ![Landing Page](https://github.com/user-attachments/assets/036184e1-2c28-4e72-b55c-485f69d55188) | ![Signup Page](https://github.com/user-attachments/assets/07b392d4-5255-4d11-9e56-5764945012d3) |
 
 | Dashboard Overview | Category Management |
 | :---: | :---: |
-| ![![![WhatsApp Image 2025-09-23 at 21 06 34_15242ffe](https://github.com/user-attachments/assets/c321f61e-cc50-4422-ad14-688eaafd92bf)
-)
-) | ![Category Management](![WhatsApp Image 2025-09-23 at 21 06 33_339140c8](https://github.com/user-attachments/assets/33d51d8d-4c66-42e4-af83-82f139e68d52)
-) |
+| ![Dashboard Overview](https://github.com/user-attachments/assets/c321f61e-cc50-4422-ad14-688eaafd92bf) | ![Category Management](https://github.com/user-attachments/assets/33d51d8d-4c66-42e4-af83-82f139e68d52) |
 
 | Income Tracking | Expense Overview |
 | :---: | :---: |
-| ![Income Tracking](![WhatsApp Image 2025-09-23 at 21 06 33_0f5e9be8](https://github.com/user-attachments/assets/229aaeb0-9c96-4783-ae28-f18faee7d59c)
->) | ![Expense Overview](![WhatsApp Image 2025-09-23 at 21 06 33_f13aa13e](https://github.com/user-attachments/assets/21bf66df-7190-4b2e-84c0-b0740bde3efe)
-) |
+| ![Income Tracking](https://github.com/user-attachments/assets/229aaeb0-9c96-4783-ae28-f18faee7d59c) | ![Expense Overview](https://github.com/user-attachments/assets/21bf66df-7190-4b2e-84c0-b0740bde3efe) |
 
 | Filter Transactions | Login Page |
 | :---: | :---: |
-| ![Filter Transactions](![WhatsApp Image 2025-09-23 at 21 06 34_efb24512](https://github.com/user-attachments/assets/b4843afc-d9d3-4a15-ac81-a83de51ef160)
-) | ![Login Page](<![WhatsApp Image 2025-09-23 at 21 06 34_3f87ff1b](https://github.com/user-attachments/assets/222401ff-3054-4e4a-92d3-48a78a13e42b)
->) |
-
+| ![Filter Transactions](https://github.com/user-attachments/assets/b4843afc-d9d3-4a15-ac81-a83de51ef160) | ![Login Page](https://github.com/user-attachments/assets/222401ff-3054-4e4a-92d3-48a78a13e42b) |
 
 ## ✨ Features Spotlight
 
